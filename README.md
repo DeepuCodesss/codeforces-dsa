@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 
 ---
 
@@ -28,6 +28,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 
 ---
 
