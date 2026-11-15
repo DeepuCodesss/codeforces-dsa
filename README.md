@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 4 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (4)
 
 ---
 
@@ -29,6 +29,8 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 
 ---
 
