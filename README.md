@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 9 |
+| 9 | 9 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (3)
-- [dp](#dp) (2)
+- [data structures](#data-structures) (4)
+- [dp](#dp) (3)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (8)
-- [math](#math) (1)
+- [math](#math) (2)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -47,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
 
@@ -56,6 +57,7 @@
 |---|---------|------------|----------|
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 
 ### greedy
 
@@ -81,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### two pointers
