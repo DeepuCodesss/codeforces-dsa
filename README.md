@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 9 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (3)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (8)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (9)
 - [math](#math) (2)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -63,6 +63,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
 
@@ -74,6 +75,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
@@ -90,6 +92,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 
 ---
