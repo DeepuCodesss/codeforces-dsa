@@ -6,7 +6,6 @@ public class Main {
  
         int a = sc.nextInt();
         int b = sc.nextInt();
- 
         int years = 0;
  
         while (a <= b) {
@@ -16,7 +15,5 @@ public class Main {
         }
  
         System.out.println(years);
- 
-        sc.close();
     }
 }
