@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 11 | 10 |
 
 ---
 
@@ -17,10 +17,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (3)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (9)
 - [math](#math) (2)
-- [two pointers](#two-pointers) (2)
+- [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -66,6 +67,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### implementation
 
@@ -88,12 +90,19 @@
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
+
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ---
 
