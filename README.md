@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (4)
 - [dp](#dp) (3)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [two pointers](#two-pointers) (3)
@@ -76,6 +76,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/DeepuCodesss/codeforces-dsa/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
